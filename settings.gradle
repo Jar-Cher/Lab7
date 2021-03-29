@@ -1,0 +1,3 @@
+include ':lab7supplement'
+include ':app'
+rootProject.name = "Lab7"
